@@ -62,7 +62,14 @@ This code is mirrored at
 
 The mirrors are only for convenience, accessibility and backup.
 
+# Issues, feature requests and code contributions
+
+If you have any questions or problems with the code (e.g. bugs), please feel free to open an issue. We would be happy to oblige to useful feature requests and/or code contributions. Please feel free to submit a pull request if you have a burning new public feature that could be added to the codebase and we will get in touch. 
+
+You can also email [me](mailto:khalidmi@cardiff.ac.uk) about the above.  
+
 # Citation
 
 I. Khalid, C. A. Weidner, E. A. Jonckheere, S. G. Shermer, F. C. Langbein. **RobChar: Robust Characterisation of Quantum Controls and Control Algorithms**. Code, git@qyber.black:spinnet/code-robchar.git, 2022.
 [[DOI:10.5281/zenodo.6891381]](https://doi.org/10.5281/zenodo.6891152)
+
